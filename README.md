@@ -21,6 +21,6 @@ Tests
 Pour exécuter les tests unitaires, utilisez la commande suivante : npm run test
 
 Équipe de Développement
-Meli Sonkoue Bernice Verel 21Q2393
-EBENGUE Dimene Annick Carole 23V2654
-Ngake Ngassam Brice 21T2773
+# Meli Sonkoue Bernice Verel 21Q2393
+# EBENGUE Dimene Annick Carole 23V2654
+# Ngake Ngassam Brice 21T2773
